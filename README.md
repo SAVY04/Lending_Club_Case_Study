@@ -19,10 +19,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Debt Consolidation is the most common loan purpose, but Small Business Loans have the highest default risk, with Renewable Energy and Educational Loans also showing significant, though lower, risk. Understanding these varying risks can help in better managing defaults.
+- Most loans are between 5000 and 10000 dollars. Borrowers with 10+ years of experience apply for larger loans and have higher debt-to-income ratios, while less experienced borrowers typically request smaller amounts. This suggests a correlation between borrower experience and loan size.
+- Grade G borrowers have the highest default rates, while interest rates rise with loan grades from Grade A to Grade G. Lower-grade loans are riskier, so adjusting policies based on loan grades can improve risk management.
+- Borrowers with 'Other' home ownership status have the highest default rates, followed by renters. Homeowners (Own and Mortgage) generally have lower default rates. Analyzing home ownership status helps assess borrower stability and default risk.
+- 60-month loans have higher default rates than 36-month loans, with longer terms linked to increased risk. Shorter-term loans generally perform better, suggesting that re-evaluating loan term policies could help reduce defaults.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
